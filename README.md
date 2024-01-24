@@ -20,7 +20,7 @@
 1. Jupyter Notebook 설치
 2. Jupyter Notebook 기본 경로로 이동(ex. C://JupyterProject)
 3. GitHub Repository에서 "Download ZIP" 클릭해 압축 파일 다운로드
-   ![image](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/assets/102213509/e9c8d1a9-459a-4732-bf0b-a066cfda0f64)
+   ![스크린샷 2024-01-22 215720](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/assets/102213509/36746590-98c8-4960-a967-572df5144bd5)
 4. 파일 압축 해제 및 Jupyter Notebook 기본 경로에 폴더 이동하기
 5. 주피터 노트북 내에서 실행
 *주의 : 반드시, 데이터셋과 코드 파일이 같은 디렉터리에 존재해야 합니다.
@@ -105,8 +105,8 @@
 
 # 참고자료
 ## 📝프로젝트 계획서 및 최종 보고서
-- [빅데이터 분석계획서 - 202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14010905/-.202068001.pdf)
-- [빅데이터 최종보고서-202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14010909/-202068001.pdf)
+- [빅데이터 분석계획서 - 202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14032284/-.202068001.pdf)
+- [빅데이터 최종보고서-202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14032285/-202068001.pdf)
 
 ---
 
@@ -114,7 +114,7 @@
 <br>
 
 ## 💊 최종 발표 영상
-https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/assets/102213509/9c05a060-73a4-4189-a266-273486c0d024
+https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/assets/102213509/4e88da0a-005e-413b-abd0-4d078d9c94e3
 
 ---
 
@@ -122,7 +122,6 @@ https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/assets/102213509/9c05a
 <br>
 
 ## 💊 최종 자료
-- [최종보고서 코드 설명_Notion](https://hayanlee.notion.site/9d16321387e44460bd2ea0ffc48da00c?pvs=4)
-- [빅데이터 최종 프로젝트 - 202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14010967/-.202068001.pdf)
-
+- [최종 보고서 코드 내용 설명.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14032290/default.pdf)
+- [빅데이터 최종 프로젝트 - 202068001 이하얀.pdf](https://github.com/hayannn/Min_MedicalBlind_Spots_Bigdata/files/14032292/-.202068001.pdf)
 
